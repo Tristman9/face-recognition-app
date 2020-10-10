@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.0b95c73b.chunk.css",
-    "main.js": "/static/js/main.3e522081.chunk.js",
-    "main.js.map": "/static/js/main.3e522081.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.c86c1f5c.chunk.js": "/static/js/2.c86c1f5c.chunk.js",
-    "static/js/2.c86c1f5c.chunk.js.map": "/static/js/2.c86c1f5c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.4edfc99b160f6ff997c71b3ee4b66885.js": "/precache-manifest.4edfc99b160f6ff997c71b3ee4b66885.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.0b95c73b.chunk.css.map": "/static/css/main.0b95c73b.chunk.css.map",
-    "static/js/2.c86c1f5c.chunk.js.LICENSE.txt": "/static/js/2.c86c1f5c.chunk.js.LICENSE.txt"
+    "main.css": "/face-recognition-app/static/css/main.0b95c73b.chunk.css",
+    "main.js": "/face-recognition-app/static/js/main.073f45bb.chunk.js",
+    "main.js.map": "/face-recognition-app/static/js/main.073f45bb.chunk.js.map",
+    "runtime-main.js": "/face-recognition-app/static/js/runtime-main.238bf622.js",
+    "runtime-main.js.map": "/face-recognition-app/static/js/runtime-main.238bf622.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/face-recognition-app/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.ce001b60.chunk.js": "/face-recognition-app/static/js/2.ce001b60.chunk.js",
+    "static/js/2.ce001b60.chunk.js.map": "/face-recognition-app/static/js/2.ce001b60.chunk.js.map",
+    "index.html": "/face-recognition-app/index.html",
+    "precache-manifest.c6a079e0146eb3969cd8638ec34f5a3d.js": "/face-recognition-app/precache-manifest.c6a079e0146eb3969cd8638ec34f5a3d.js",
+    "service-worker.js": "/face-recognition-app/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/face-recognition-app/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.0b95c73b.chunk.css.map": "/face-recognition-app/static/css/main.0b95c73b.chunk.css.map",
+    "static/js/2.ce001b60.chunk.js.LICENSE.txt": "/face-recognition-app/static/js/2.ce001b60.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.83c3e0c4.js",
+    "static/js/runtime-main.238bf622.js",
     "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.c86c1f5c.chunk.js",
+    "static/js/2.ce001b60.chunk.js",
     "static/css/main.0b95c73b.chunk.css",
-    "static/js/main.3e522081.chunk.js"
+    "static/js/main.073f45bb.chunk.js"
   ]
 }
